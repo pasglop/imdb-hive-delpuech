@@ -1,0 +1,6 @@
+sasl
+thrift
+thrift-sasl
+pyhive
+python-dotenv
+tabulate
